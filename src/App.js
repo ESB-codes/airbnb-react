@@ -7,14 +7,6 @@ import data from "./data.js"
 
 function App() {
 
-  // const cards=data.map(x=>{
-  //   return(
-  //     <Card
-  //     key={x.id}
-  //     x={x}
-  //     />
-  //   )
-  // })
 
   const cards= data.map(x=>{
     return(
